@@ -1,9 +1,9 @@
 :root{ /*declaração de variáveis; PASSANDO O MOUSE EM CIMA DAS CORES VOCÊ CONSEGUE MUDÁ-LAS*/
     --cor-de-fundo: white; 
-    --verde: blue; 
-    --branco: green; 
-    --botao-ativo: black; 
-    --botao-inativo: rgba(58, 55, 94, 0.5); 
+    --verde: rgb(167, 3, 3); 
+    --branco: rgb(235, 86, 0); 
+    --botao-ativo: rgb(228, 144, 18); 
+    --botao-inativo: rgb(255, 123, 0); 
     --texto-fundo: rgba(58, 55, 94, 0.3); 
 }
 body{ /*define estilização geral do conteúdo da página*/
